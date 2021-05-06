@@ -1,4 +1,5 @@
-# UNBEATABLE TIC‑TAC‑TOE USING MIN‑MAX ALGORITHM
+# UNBEATABLE TIC‑TAC‑TOE [Play Now](https://playtictactoe.org/)
+
 ## Project description:
 • Min-Max search algorithm explores best paths using depth-first-search(DFS) and backtracking techniques. Constant increase and decrease of utilities by our user against AI makes all that fun.
 
